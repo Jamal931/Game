@@ -1,14 +1,15 @@
-# Python-Platformer
+## Python Platformer Game
 
-# 💻 Launch Your Software Development Career Today!  
+🎮 **Python Platformer Game** is a fun, 2D side-scrolling game built using Python and the Pygame library. This project is designed for players and developers alike, offering engaging gameplay while showcasing clean and modular Python code. Perfect for learning and entertainment!
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+---
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+## 🚀 Features
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+- **2D Platforming**: Navigate through levels filled with obstacles, platforms, and challenges.
+- **Player Mechanics**: Smooth movement, jumping, and gravity physics.
+- **Interactive Gameplay**: Collect items, defeat enemies, and unlock levels.
+- **Customizable**: Easily add new levels, sprites, and mechanics.
+- **Sound Effects and Music**: Immersive audio for a complete gaming experience.
+
+---
